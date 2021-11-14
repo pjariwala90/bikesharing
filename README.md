@@ -3,7 +3,7 @@
 ## Overview
 Purpose of this analysis is to perform a review of Citi Bike Data for New York City using Tableau. Data will have type modification using Python in Jupyter Notebook
 
-
+## Results
 Summary of Visualizations Used -- Including Summary Text found in Tableau
 
 Course 1 Dashboard--Story pg1
@@ -19,7 +19,7 @@ Course: Average Trip Duration Summary Text:
  --Breakdown by Customer Type:  Subscriber Favored
  --Breakdown by Gender:  Male Favored & subset of indeterminant gender present
  --August Peak Hours:  High @ 5pm, Low @ 4am
- [link to dashboard](https://public.tableau.com/app/profile/pooja6418/viz/module14challenge/Dashboard1?publish=yes)
+ [link to dashboard]("https://public.tableau.com/app/profile/pooja6418/viz/module14challenge/Dashboard1?publish=yes")
 Challenge 1 Dashboard--Story pg3
 Challenge: Checkout Times for Users
 Challenge: Checkout TImes for Genders Summary Text:
