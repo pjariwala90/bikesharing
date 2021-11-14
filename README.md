@@ -51,7 +51,7 @@ Of interest is that while FEMALE riders are fewer, their distribution of usage d
 
 6am ~ 9am & 4pm ~ 7pm during Monday through Friday.
 Weekend hours have even distribution throughout day from 10am ~ 5pm.
-Summary
+##Summary
 Overall this was a very interesting first use of Tableau to visualize data. The level of customization and additional features are apparent especially in relation to Excel used during beginning of course. Additionally, the learning curve is not quite as steep compared to the Python & Javascript visualizations performed in previous modules.
 
 If I were to explore this particualr data set further, I would consider a deeper dive into:
