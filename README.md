@@ -15,10 +15,10 @@ Course: Average Trip Duration Summary Text:
  Page 1 of Course Exercises for CitiBike Analysis Using Tableau.
  Source Data = https://www.citibikenyc.com/system-data
  Initial Charts:
- --Total Number of Trips:  Raw count of records
- --Breakdown by Customer Type:  Subscriber Favored
- --Breakdown by Gender:  Male Favored & subset of indeterminant gender present
- --August Peak Hours:  High @ 5pm, Low @ 4am
+ -Total Number of Trips:  Raw count of records
+ -Breakdown by Customer Type:  Subscriber Favored
+ -Breakdown by Gender:  Male Favored & subset of indeterminant gender present
+ -August Peak Hours:  High @ 5pm, Low @ 4am
  [link to dashboard]("https://public.tableau.com/app/profile/pooja6418/viz/module14challenge/Dashboard1?publish=yes")
 Challenge 1 Dashboard--Story pg3
 Challenge: Checkout Times for Users
